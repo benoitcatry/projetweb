@@ -106,8 +106,9 @@ Fonctionnalités :
     Historique des messages enregistré dans MongoDB
 
 Video : 
-[ Voir la vidéo du mini Projet 2 sur Google Drive]([https://drive.google.com/file/d/1AbcD1234EfGhIjKlmNOPQR5678/view?usp=sharing](https://drive.google.com/file/d/1A1pm4QdJu893rS4ZLy9Vr-RPUCl59GQX/view?usp=drive_link))
+[ Voir la vidéo du mini Projet 2 sur Google Drive](https://drive.google.com/file/d/1A1pm4QdJu893rS4ZLy9Vr-RPUCl59GQX/view?usp=drive_link)
 
+[ Voir la vidéo du mini Projet 3 sur Google Drive](https://drive.google.com/file/d/1n9iU9lvQ9jS6aCSAmViCTYO8sG_qPFz1/view?usp=drive_link)
 
 
 
