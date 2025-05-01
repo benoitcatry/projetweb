@@ -82,7 +82,7 @@ Fonctionnalités :
  Mini-projet 3 : OAuth2 avec Google & Chat en temps réel
  Voir la démo vidéo (à compléter)
 
-    Connexion via Google OAuth2 (et un autre fournisseur possible)
+    Connexion via Google OAuth2
 
     Système de chat en temps réel entre utilisateurs authentifiés
 
@@ -94,7 +94,6 @@ Stack technique :
 
     Websocket : Socket.io
 
-    Mise en cache : Redis
 
     Base de données : MongoDB
 
@@ -106,7 +105,9 @@ Fonctionnalités :
 
     Historique des messages enregistré dans MongoDB
 
-    Sessions mises en cache avec Redis
+Video : 
+[ Voir la vidéo du mini Projet 2 sur Google Drive]([https://drive.google.com/file/d/1AbcD1234EfGhIjKlmNOPQR5678/view?usp=sharing](https://drive.google.com/file/d/1A1pm4QdJu893rS4ZLy9Vr-RPUCl59GQX/view?usp=drive_link))
+
 
 
 
